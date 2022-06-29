@@ -74,7 +74,7 @@ components.welcomeScreen = `
     </nav>
     <main>
   <div class="welcome">
-        <h1>WELCOME TO SNAKEION</h1>
+        <h1>Well-cum to PioTech</h1>
       </div>
       <div class="introduction">
         <h3>What is Snakeon?</h3>
