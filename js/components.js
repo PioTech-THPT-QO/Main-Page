@@ -5,10 +5,10 @@ components.homeScreen = `
         <h1>Well-cum to PioTech</h1>
       </div>
       <div class="introduction">
-        <h3>What is Snakeon?</h3>
-        <p style="padding: 0px 300px; color: rgb(204,205,211); font-size: 20px;">Snakeon’s mission is to bring the world together through gaming. This website has the best snake game ever. </p>
+        <h3>What is PioTech?</h3>
+        <p style="padding: 0px 300px; color: rgb(204,205,211); font-size: 20px;">PioTech’s mission is to bring the world together through gaming. This website has the best snake game ever. </p>
         <h3>How popular?</h3>
-        <p style="padding: 0px 300px; color: rgb(204,205,211); font-size: 20px;">Snakeon is ranked as one of the most popular websites in the world.</p>
+        <p style="padding: 0px 300px; color: rgb(204,205,211); font-size: 20px;">PioTech is ranked as one of the most popular websites in the world.</p>
       </div>
       
 
@@ -72,7 +72,7 @@ components.homeScreen = `
           <a href="">&amp;Gameric</a>
       </p>
   
-      <p class="footer-company-name">Copyright &copy; Snakeon 2020</p>
+      <p class="footer-company-name">Copyright &copy; PioTech 2020</p>
   
   </footer>
   `
