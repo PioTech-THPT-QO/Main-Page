@@ -2,7 +2,7 @@ const components = {};
 components.homeScreen = `
   <main>
   <div class="welcome">
-        <h1>Well-cum to PioTech</h1>
+      <h1>Well-cum to PioTech</h1>
       </div>
       <div class="introduction">
         <h3>What is PioTech?</h3>
